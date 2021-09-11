@@ -4,4 +4,4 @@ do work in this branch, create pull request and then merge on to main branch. **
 
 new line added in ***italics***
 
-new line added in ~~strikethrough~~
+deleted the strikethrough line
